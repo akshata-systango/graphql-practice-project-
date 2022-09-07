@@ -1,0 +1,63 @@
+{
+  "message": [
+    {
+      "id": "3",
+      "username": "john",
+      "message": "hii"
+    },
+    {
+      "username": "akshata",
+      "id": "460",
+      "message": "how r u?"
+    },
+    {
+      "id": "857",
+      "username": "test2",
+      "message": "hiii",
+      "userId": "undefined"
+    },
+    {
+      "id": "57",
+      "username": "test2",
+      "message": "5++",
+      "userId": "120"
+    },
+    {
+      "id": "208",
+      "username": "test1",
+      "message": "nmste",
+      "userId": "125"
+    },
+    {
+      "id": "531",
+      "username": "test1",
+      "message": "tingtong",
+      "userId": "125"
+    }
+  ],
+  "users": [
+    {
+      "id": "123",
+      "firstname": "test",
+      "lastname": "test",
+      "age": 20,
+      "email": "t@gmail.com",
+      "message": []
+    },
+    {
+      "id": "125",
+      "firstname": "test1",
+      "lastname": "test 1",
+      "age": 21,
+      "email": "test1@gmail.com"
+    },
+    {
+      "id": "120",
+      "firstname": "test2",
+      "lastname": "test2",
+      "age": 23,
+      "email": "test3@gmail.com",
+      "message": []
+    }
+  ]
+}

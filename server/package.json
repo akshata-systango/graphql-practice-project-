@@ -1,0 +1,33 @@
+{
+  "name": "users",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json:server": "json-server --watch db.json",
+    "dev": "nodemon server.js",
+    "start": "nodemon index.js"
+  },
+  "author": "akshata-systango <amandloi@systango.com>",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.10.2",
+    "axios": "^0.22.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "firebase": "^9.9.3",
+    "graphql": "^16.6.0",
+    "graphql-playground": "^1.3.17",
+    "graphql-subscriptions": "^2.0.0",
+    "graphql-tag": "^2.12.6",
+    "graphql-tools": "^8.3.4",
+    "graphql-ws": "^5.10.1",
+    "json-server": "^0.16.3",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.13",
+    "subscriptions-transport-ws": "^0.11.0"
+  },
+  "repository": "https://github.com/akshata-systango/graphql-with-firebase.git"
+}
